@@ -1,10 +1,4 @@
-# PointNeXt
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pointnext-revisiting-pointnet-with-improved/semantic-segmentation-on-s3dis)](https://paperswithcode.com/sota/semantic-segmentation-on-s3dis?p=pointnext-revisiting-pointnet-with-improved)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pointnext-revisiting-pointnet-with-improved/3d-point-cloud-classification-on-scanobjectnn)](https://paperswithcode.com/sota/3d-point-cloud-classification-on-scanobjectnn?p=pointnext-revisiting-pointnet-with-improved)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pointnext-revisiting-pointnet-with-improved/semantic-segmentation-on-s3dis-area5)](https://paperswithcode.com/sota/semantic-segmentation-on-s3dis-area5?p=pointnext-revisiting-pointnet-with-improved)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pointnext-revisiting-pointnet-with-improved/3d-point-cloud-classification-on-modelnet40)](https://paperswithcode.com/sota/3d-point-cloud-classification-on-modelnet40?p=pointnext-revisiting-pointnet-with-improved)
-
-[arXiv](https://arxiv.org/abs/2206.04670) | [OpenPoints Library](https://github.com/guochengqian/openpoints)
+# BAFM-and-MAL
 
 <p align="center">
 <img src="misc/effects_training_scaling.png" width=85% height=85% class="center">
@@ -166,21 +160,3 @@ More examples are available in the [paper](https://arxiv.org/abs/2206.04670).
 
 ![s3dis](misc/s3dis_vis.png)
 ![shapenetpart](misc/shapenetpart_vis.png)
-
-
-
-### Acknowledgment
-This library is inspired by [PyTorch-image-models](https://github.com/rwightman/pytorch-image-models) and [mmcv](https://github.com/open-mmlab/mmcv). 
-
-
-
-### Citation
-If you find PointNeXt or the OpenPoints codebase is useful, please cite:
-```tex
-@Article{qian2022pointnext,
-  author  = {Qian, Guocheng and Li, Yuchen and Peng, Houwen and Mai, Jinjie and Hammoud, Hasan and Elhoseiny, Mohamed and Ghanem, Bernard},
-  journal = {arXiv:2206.04670},
-  title   = {PointNeXt: Revisiting PointNet++ with Improved Training and Scaling Strategies},
-  year    = {2022},
-}
-```

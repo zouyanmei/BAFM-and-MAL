@@ -1,0 +1,16 @@
+# ninja log v5
+1	6988	1704889283133208447	/home/dell/zym/code/pointnext/pointnext-fourth/HPENet_v2/openpoints/cpp/pointops/build/temp.linux-x86_64-3.7/src/knnquery/knnquery_cuda.o	f0de59c6ee17f35d
+1	7000	1704889283145208292	/home/dell/zym/code/pointnext/pointnext-fourth/HPENet_v2/openpoints/cpp/pointops/build/temp.linux-x86_64-3.7/src/ballquery/ballquery_cuda.o	2b3d43fe4de08374
+2	7066	1704889283213207413	/home/dell/zym/code/pointnext/pointnext-fourth/HPENet_v2/openpoints/cpp/pointops/build/temp.linux-x86_64-3.7/src/sampling/sampling_cuda.o	b3976576f8641728
+2	7127	1704889283273206637	/home/dell/zym/code/pointnext/pointnext-fourth/HPENet_v2/openpoints/cpp/pointops/build/temp.linux-x86_64-3.7/src/grouping/grouping_cuda.o	a0176b09bcf173c9
+3	7183	1704889283329205914	/home/dell/zym/code/pointnext/pointnext-fourth/HPENet_v2/openpoints/cpp/pointops/build/temp.linux-x86_64-3.7/src/interpolation/interpolation_cuda.o	61e2480f0a20da9e
+3	7212	1704889283357205552	/home/dell/zym/code/pointnext/pointnext-fourth/HPENet_v2/openpoints/cpp/pointops/build/temp.linux-x86_64-3.7/src/aggregation/aggregation_cuda.o	40063ec882d51f34
+3	7310	1704889283457204260	/home/dell/zym/code/pointnext/pointnext-fourth/HPENet_v2/openpoints/cpp/pointops/build/temp.linux-x86_64-3.7/src/subtraction/subtraction_cuda.o	b794e533ffe0fa62
+1	19502	1704889295641051040	/home/dell/zym/code/pointnext/pointnext-fourth/HPENet_v2/openpoints/cpp/pointops/build/temp.linux-x86_64-3.7/src/knnquery/knnquery_cuda_kernel.o	3cb0386b00ff8ab7
+2	19550	1704889295689050453	/home/dell/zym/code/pointnext/pointnext-fourth/HPENet_v2/openpoints/cpp/pointops/build/temp.linux-x86_64-3.7/src/grouping/grouping_cuda_kernel.o	c41d1c6e264eee00
+1	19551	1704889295693050404	/home/dell/zym/code/pointnext/pointnext-fourth/HPENet_v2/openpoints/cpp/pointops/build/temp.linux-x86_64-3.7/src/ballquery/ballquery_cuda_kernel.o	a5f4c95fca1358a3
+3	19643	1704889295785049278	/home/dell/zym/code/pointnext/pointnext-fourth/HPENet_v2/openpoints/cpp/pointops/build/temp.linux-x86_64-3.7/src/subtraction/subtraction_cuda_kernel.o	c19228ed2ecab0a8
+2	19816	1704889295957047174	/home/dell/zym/code/pointnext/pointnext-fourth/HPENet_v2/openpoints/cpp/pointops/build/temp.linux-x86_64-3.7/src/sampling/sampling_cuda_kernel.o	7442e2d545d1fb55
+3	19922	1704889296061045904	/home/dell/zym/code/pointnext/pointnext-fourth/HPENet_v2/openpoints/cpp/pointops/build/temp.linux-x86_64-3.7/src/interpolation/interpolation_cuda_kernel.o	9dce7854675a551a
+4	20179	1704889296317042786	/home/dell/zym/code/pointnext/pointnext-fourth/HPENet_v2/openpoints/cpp/pointops/build/temp.linux-x86_64-3.7/src/aggregation/aggregation_cuda_kernel.o	e311006f586b9d8c
+0	20407	1704889296545040009	/home/dell/zym/code/pointnext/pointnext-fourth/HPENet_v2/openpoints/cpp/pointops/build/temp.linux-x86_64-3.7/src/pointops_api.o	7637965fa0b19e02

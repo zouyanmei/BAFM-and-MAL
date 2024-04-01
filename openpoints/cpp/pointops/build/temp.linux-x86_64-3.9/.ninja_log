@@ -1,0 +1,16 @@
+# ninja log v5
+4	16624	1711091191582396745	/home/hnu/ssd/zym/code/HPENet_V2/openpoints/cpp/pointops/build/temp.linux-x86_64-3.9/src/sampling/sampling_cuda.o	222078b22a8c0def
+0	16653	1711091191590396740	/home/hnu/ssd/zym/code/HPENet_V2/openpoints/cpp/pointops/build/temp.linux-x86_64-3.9/src/aggregation/aggregation_cuda.o	da0b39fa9fafdaa5
+3	16664	1711091191582396745	/home/hnu/ssd/zym/code/HPENet_V2/openpoints/cpp/pointops/build/temp.linux-x86_64-3.9/src/interpolation/interpolation_cuda.o	fec8a32ef5ca00e9
+6	16989	1711091191946396588	/home/hnu/ssd/zym/code/HPENet_V2/openpoints/cpp/pointops/build/temp.linux-x86_64-3.9/src/subtraction/subtraction_cuda.o	950643af2b37c15a
+2	17020	1711091191982396574	/home/hnu/ssd/zym/code/HPENet_V2/openpoints/cpp/pointops/build/temp.linux-x86_64-3.9/src/grouping/grouping_cuda.o	e6875be4d04445b6
+1	18424	1711091193386395972	/home/hnu/ssd/zym/code/HPENet_V2/openpoints/cpp/pointops/build/temp.linux-x86_64-3.9/src/ballquery/ballquery_cuda.o	6f63adaa2833aa94
+4	18825	1711091193778395803	/home/hnu/ssd/zym/code/HPENet_V2/openpoints/cpp/pointops/build/temp.linux-x86_64-3.9/src/knnquery/knnquery_cuda.o	da09b900b18bb6c0
+5	31752	1711091206690390201	/home/hnu/ssd/zym/code/HPENet_V2/openpoints/cpp/pointops/build/temp.linux-x86_64-3.9/src/pointops_api.o	75be4a78173ed62
+3	35627	1711091210550388505	/home/hnu/ssd/zym/code/HPENet_V2/openpoints/cpp/pointops/build/temp.linux-x86_64-3.9/src/interpolation/interpolation_cuda_kernel.o	be75b40e646d8e9f
+0	36211	1711091211142388244	/home/hnu/ssd/zym/code/HPENet_V2/openpoints/cpp/pointops/build/temp.linux-x86_64-3.9/src/aggregation/aggregation_cuda_kernel.o	db330c2ae08796d5
+1	36568	1711091211498388087	/home/hnu/ssd/zym/code/HPENet_V2/openpoints/cpp/pointops/build/temp.linux-x86_64-3.9/src/ballquery/ballquery_cuda_kernel.o	60ca2cc54ec70176
+2	36637	1711091211570388055	/home/hnu/ssd/zym/code/HPENet_V2/openpoints/cpp/pointops/build/temp.linux-x86_64-3.9/src/grouping/grouping_cuda_kernel.o	5990f3fa5b81230
+6	36748	1711091211674388008	/home/hnu/ssd/zym/code/HPENet_V2/openpoints/cpp/pointops/build/temp.linux-x86_64-3.9/src/subtraction/subtraction_cuda_kernel.o	4321862403fd6105
+6	36941	1711091211858387928	/home/hnu/ssd/zym/code/HPENet_V2/openpoints/cpp/pointops/build/temp.linux-x86_64-3.9/src/sampling/sampling_cuda_kernel.o	2f320c042e14337b
+4	37930	1711091212846387491	/home/hnu/ssd/zym/code/HPENet_V2/openpoints/cpp/pointops/build/temp.linux-x86_64-3.9/src/knnquery/knnquery_cuda_kernel.o	44313123d6b7b877

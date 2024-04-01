@@ -1,0 +1,10 @@
+# ninja log v5
+2	9691	1704889226630041136	/home/dell/zym/code/pointnext/pointnext-fourth/HPENet_v2/openpoints/cpp/pointnet2_batch/build/temp.linux-x86_64-3.7/src/sampling.o	320fc02ad820f9f0
+1	9692	1704889226630041136	/home/dell/zym/code/pointnext/pointnext-fourth/HPENet_v2/openpoints/cpp/pointnet2_batch/build/temp.linux-x86_64-3.7/src/group_points.o	d09309c908048491
+1	9693	1704889226630041136	/home/dell/zym/code/pointnext/pointnext-fourth/HPENet_v2/openpoints/cpp/pointnet2_batch/build/temp.linux-x86_64-3.7/src/interpolate.o	95e88f92c6b7831b
+0	9761	1704889226702039935	/home/dell/zym/code/pointnext/pointnext-fourth/HPENet_v2/openpoints/cpp/pointnet2_batch/build/temp.linux-x86_64-3.7/src/ball_query.o	6e81c7a8a09e3edd
+1	22056	1704889238993840611	/home/dell/zym/code/pointnext/pointnext-fourth/HPENet_v2/openpoints/cpp/pointnet2_batch/build/temp.linux-x86_64-3.7/src/ball_query_gpu.o	ed7ef43d212bd7e8
+2	22077	1704889239013840296	/home/dell/zym/code/pointnext/pointnext-fourth/HPENet_v2/openpoints/cpp/pointnet2_batch/build/temp.linux-x86_64-3.7/src/interpolate_gpu.o	aeab4c7393e33546
+1	22149	1704889239085839163	/home/dell/zym/code/pointnext/pointnext-fourth/HPENet_v2/openpoints/cpp/pointnet2_batch/build/temp.linux-x86_64-3.7/src/group_points_gpu.o	8dd9a36ba6ed8eb7
+0	22553	1704889239485832865	/home/dell/zym/code/pointnext/pointnext-fourth/HPENet_v2/openpoints/cpp/pointnet2_batch/build/temp.linux-x86_64-3.7/src/pointnet2_api.o	e161dc0156b8ada1
+2	22885	1704889239817827638	/home/dell/zym/code/pointnext/pointnext-fourth/HPENet_v2/openpoints/cpp/pointnet2_batch/build/temp.linux-x86_64-3.7/src/sampling_gpu.o	cbccc9efb1ad5e39

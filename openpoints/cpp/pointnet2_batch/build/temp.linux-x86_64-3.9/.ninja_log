@@ -1,0 +1,10 @@
+# ninja log v5
+1	14403	1711091082202439218	/home/hnu/ssd/zym/code/HPENet_V2/openpoints/cpp/pointnet2_batch/build/temp.linux-x86_64-3.9/src/group_points.o	bf17c86ab16fcb0d
+2	14570	1711091082366439162	/home/hnu/ssd/zym/code/HPENet_V2/openpoints/cpp/pointnet2_batch/build/temp.linux-x86_64-3.9/src/interpolate.o	cd38e2d7d373ff00
+0	15016	1711091082810439009	/home/hnu/ssd/zym/code/HPENet_V2/openpoints/cpp/pointnet2_batch/build/temp.linux-x86_64-3.9/src/ball_query.o	2feee9c2a982a774
+4	15251	1711091083046438927	/home/hnu/ssd/zym/code/HPENet_V2/openpoints/cpp/pointnet2_batch/build/temp.linux-x86_64-3.9/src/sampling.o	9d41ef4a26366791
+3	28935	1711091096714434115	/home/hnu/ssd/zym/code/HPENet_V2/openpoints/cpp/pointnet2_batch/build/temp.linux-x86_64-3.9/src/pointnet2_api.o	eda67d038877719f
+1	33227	1711091101006432573	/home/hnu/ssd/zym/code/HPENet_V2/openpoints/cpp/pointnet2_batch/build/temp.linux-x86_64-3.9/src/ball_query_gpu.o	276294cedc80c100
+2	34098	1711091101886432255	/home/hnu/ssd/zym/code/HPENet_V2/openpoints/cpp/pointnet2_batch/build/temp.linux-x86_64-3.9/src/group_points_gpu.o	1f61ffb27c07850b
+2	34256	1711091102030432203	/home/hnu/ssd/zym/code/HPENet_V2/openpoints/cpp/pointnet2_batch/build/temp.linux-x86_64-3.9/src/interpolate_gpu.o	2a181e3c3b69d3e0
+4	34621	1711091102406432066	/home/hnu/ssd/zym/code/HPENet_V2/openpoints/cpp/pointnet2_batch/build/temp.linux-x86_64-3.9/src/sampling_gpu.o	de3e2f9f35892844

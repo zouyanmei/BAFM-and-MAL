@@ -17,10 +17,6 @@ Official PyTorch implementation of PointNeXt, for the following paper:
 <img src="misc/pointnext.jpeg" width=85% height=85% class="center">
 </p>
 
-## News
--  :pushpin:  [Houwen Peng](https://houwenpeng.com/) is hiring research interns at Microsoft Research Asia. Contact: houwen.peng@microsoft.com 
--  :pushpin:  [Bernard Ghanem](https://www.bernardghanem.com/) is hiring visiting students. Monthly salary is paid with free housing. Contact Guocheng if interested: guocheng.qian@kaust.edu.sa
--  2022/06/12: Code released
 
 ## Features
 In the PointNeXt project, we propose a new and flexible codebase for point-based methods, namely [**OpenPoints**](https://github.com/guochengqian/openpoints). The biggest difference between OpenPoints and other libraries is that we focus more on reproducibility and fair benchmarking. 
@@ -62,7 +58,7 @@ In the PointNeXt project, we propose a new and flexible codebase for point-based
 
 ```
 git clone git@github.com:guochengqian/PointNeXt.git
-cd PointNeXt
+cd BAFM-and-MAL
 source install.sh
 ```
 Note:  

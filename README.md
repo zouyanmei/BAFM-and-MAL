@@ -36,7 +36,7 @@ Note:
 
 For example, 
 * Train and validate on ScanObjectNN for 3D object classification, check [`cfgs/scanobjectnn/README.md`](cfgs/scanobjectnn/README.md)
-* Train and validate on ModelNet40 for 3D object classification, check [`cfgs/modelnet40/README.md`](cfgs/modelnet40/README.md)
+* Train and validate on ModelNet40 for 3D object classification, check [`cfgs/modelnet40ply2048/README.md`](cfgs/modelnet40ply2048/README.md)
 * Train and validate on S3DIS for 3D segmentation, check [`cfgs/s3dis/README.md`](cfgs/s3dis/README.md)
 
 Note:  

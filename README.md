@@ -6,11 +6,10 @@ Official PyTorch implementation for the following paper:
 *by Yanmei Zou, Xuefei Lin, [Hongshan Yu](http://eeit.hnu.edu.cn/info/1289/4535.htm) *, [Zhengeng Yang](https://gsy.hunnu.edu.cn/info/1071/3537.htm), [Naveed Akhtar](https://findanexpert.unimelb.edu.au/profile/1050019-naveed-akhtar)
 
 ## Features
-In the project, we propose a new and flexible codebase for point-based methods, namely [**OpenPoints**](https://github.com/guochengqian/openpoints). The biggest difference between OpenPoints and other libraries is that we focus more on reproducibility and fair benchmarking. 
+In the project, we propose:
+1. a plug-and-play bilateral attention fusion module (BAFM) to improve the performance of “Encoder-Decoder” structures by preserving fine-grained semantic information for dense multi-classification tasks.
 
-1. We propose a plug-and-play bilateral attention fusion module (BAFM) to improve the performance of “Encoder-Decoder” structures by preserving fine-grained semantic information for dense multi-classification tasks.
-
-2. We propose a misclassification-aware loss (MAL) function to fully exploit the predicted information by applying a more informed penalty on the misclassified classes.
+2. a misclassification-aware loss (MAL) function to fully exploit the predicted information by applying a more informed penalty on the misclassified classes.
 
 3. We extend MAL as a novel post-processing operation to improve the performance of existing techniques.
 

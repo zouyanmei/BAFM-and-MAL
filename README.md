@@ -53,16 +53,16 @@ We provide the **training logs & pretrained models** in column `our released`  *
 
 |       name           |    mAcc/OA     |                 Param.(M)                  | FLOPs(G)
 | :-------------------: | :----------------------------: | :----------------------------------------------------------: | :----------------------------:
-| PointMLP-elite*      | 82.1/83.7 |                    0.7   |  1.8
-| Our (PointMLP-elite) | 63.0 / - /-                    |                    [65.8 / 88.9 / 72.2](https://drive.google.com/drive/folders/1a-2yNP_JvOgKPTLBTYXP5NtUmspc1P-c?usp=sharing)   |
-| PointMLP-elite(Orig) | 66.8 / - / -                   |                     [68.0 / 89.7/ 74.3](https://drive.google.com/drive/folders/1FinOKtFEigsbgjsLybhpZr2xkESLIDhf?usp=sharing)   |
-| Our (PointMLP-elite(Orig))        | 66.8 / - / -                   |                     [68.0 / 89.7/ 74.3](https://drive.google.com/drive/folders/1FinOKtFEigsbgjsLybhpZr2xkESLIDhf?usp=sharing)   |
-| PointMLP(Orig)     | 63.4±0.8 / 87.9±0.3 / 70.0±0.7 |                    [64.2 / 88.2 / 70.7](https://drive.google.com/drive/folders/1UG8hh_CrUf-OhrYbcDd0zvDtoInrGP1u?usp=sharing)    |
-| **Our (PointMLP(Orig))**  | 63.4±0.8 / 87.9±0.3 / 70.0±0.7 |                    [64.2 / 88.2 / 70.7](https://drive.google.com/drive/folders/1UG8hh_CrUf-OhrYbcDd0zvDtoInrGP1u?usp=sharing)    |           
-| PointNeXt-S*  | 67.3±0.2 / 89.4±0.1 / 73.7±0.6 |                    [67.5 / 89.4 / 73.9](https://drive.google.com/drive/folders/166g_4vaCrS6CSmp3FwAWxl8N8ZmMuylw?usp=sharing)     |         
-| Our (PointNeXt-S*)  | 69.0±0.5 / 90.0±0.1 / 75.3±0.8 |                    [69.3 / 90.1 / 75.7](https://drive.google.com/drive/folders/1g4qE6g10zoZY5y6LPDQ5g12DvSLbnCnj?usp=sharing)      |       
-| PointNeXt-S(Orig) | 70.5±0.3 / 90.6±0.2 / 76.8±0.7 |                     [71.1 / 91.0 / 77.2](https://drive.google.com/drive/folders/1rng7YmfzzIGtXREn7jW0vVFmSSakLQs4?usp=sharing) |
-| **Our(PointNeXt-S(Orig))** | 70.5±0.3 / 90.6±0.2 / 76.8±0.7 |                     [71.1 / 91.0 / 77.2](https://drive.google.com/drive/folders/1rng7YmfzzIGtXREn7jW0vVFmSSakLQs4?usp=sharing) |
+| PointMLP-elite*      | 82.1 / 83.7 |                    0.7   |  1.8
+| Our (PointMLP-elite) | 82.3 / 84.2                    |   0.7   |  1.8
+| PointMLP-elite(Orig) | 81.7  / 84.1  | 0.7 | 1.8
+| Our (PointMLP-elite(Orig))        | 82.0 / 84.1 | 0.7 | 1.8
+| PointMLP(Orig)     | 84.4 / 86.1  | 13.2  | 31.4
+| **Our (PointMLP(Orig))**  |  84.8 / 86.4 | 13.2 | 31.4           
+| PointNeXt-S*  | 85.5 / 87.8  | 1.4 | 1.6     
+| Our (PointNeXt-S*)  | 86.4 / 87.8 | 1.4 | 1.6     
+| PointNeXt-S(Orig) | 86.8 / 88.2 | 1.4 | 1.6  
+| **Our(PointNeXt-S(Orig))** | **87.0 / 88.4** | 1.4 | 1.6
 
 
 

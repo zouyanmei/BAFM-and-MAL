@@ -51,7 +51,7 @@ We provide the **training logs & pretrained models** in column `our released`  *
 ### ScanObjectNN (Hardest variant) Classification
 
 
-|       name           |    mAcc/OA     |                 Param.(M)                  | FLOPs(G)
+|       name           |    mAcc / OA     |                 Param.(M)                  | FLOPs(G)
 | :-------------------: | :----------------------------: | :----------------------------------------------------------: | :----------------------------:
 | PointMLP-elite*      | 82.1 / 83.7 |                    0.7   |  1.8
 | Our (PointMLP-elite) | 82.3 / 84.2                    |   0.7   |  1.8
@@ -69,7 +69,7 @@ We provide the **training logs & pretrained models** in column `our released`  *
 
 ### S3DIS (Area 5) Segmentation
 
-|       name             |    mIoU/OA/mAcc (Original)                 
+|       name             |    mIoU /OA /mAcc (Original)                 
 | :--------------:       | :----------------------------: 
 |    	PointNeXt-XL*      |      70.2 / 76.0 / 90.7           
 |    	Our (PointNeXt-XL) |      71.3 / 77.2 / 90.3   
@@ -83,8 +83,5 @@ We provide the **training logs & pretrained models** in column `our released`  *
 
 
 
-| name | OA/mAcc (Original) |OA/mAcc (our released) | #params | FLOPs | Throughput (ins./sec.) |
-|:---:|:---:|:---:|:---:| :---:|:---:|
-| PointNet++ | 91.9 / - | [93.0 / 90.7](https://drive.google.com/drive/folders/1Re2_NCtZBKxIhtv755LlnHjz-FBPWjgW?usp=sharing) | 1.5M | 1.7G | 1872 |
-| **PointNeXt-S** (C=64) | 93.7±0.3 / 90.9±0.5 | [94.0 / 91.1](https://drive.google.com/drive/folders/14biOHuvH8b2F03ZozrWyF45tCmtsorYN?usp=sharing) | 4.5M | 6.5G | 2033 |
+
 

@@ -51,9 +51,9 @@ We provide the **training logs & pretrained models** in column `our released`  *
 ### ScanObjectNN (Hardest variant) Classification
 
 
-|       name           |    mIoU/OA/mAcc (Original)     |                 Param.(M)                  | FLOPs(G)
+|       name           |    mAcc/OA     |                 Param.(M)                  | FLOPs(G)
 | :-------------------: | :----------------------------: | :----------------------------------------------------------: | :----------------------------:
-| PointMLP-elite*      |        53.5 / 83.0 / -         |                    [63.6 / 88.3 / 70.2](https://drive.google.com/drive/folders/1NCy1Av1-TSs_46ngOk181A3BUhc8hpWV?usp=sharing)   |
+| PointMLP-elite*      | 82.1/83.7 |                    0.7   |  1.8
 | Our (PointMLP-elite) | 63.0 / - /-                    |                    [65.8 / 88.9 / 72.2](https://drive.google.com/drive/folders/1a-2yNP_JvOgKPTLBTYXP5NtUmspc1P-c?usp=sharing)   |
 | PointMLP-elite(Orig) | 66.8 / - / -                   |                     [68.0 / 89.7/ 74.3](https://drive.google.com/drive/folders/1FinOKtFEigsbgjsLybhpZr2xkESLIDhf?usp=sharing)   |
 | Our (PointMLP-elite(Orig))        | 66.8 / - / -                   |                     [68.0 / 89.7/ 74.3](https://drive.google.com/drive/folders/1FinOKtFEigsbgjsLybhpZr2xkESLIDhf?usp=sharing)   |

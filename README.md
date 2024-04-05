@@ -89,6 +89,10 @@ We provide the **training logs & pretrained models** in column `our released`  *
 | Our (CurveNet(Orig)) | 94.0 / 91.4 | 2.0
 | PointMLP-elite*      | 92.9 / 90.2 | 0.7
 | Our (PointMLP-elite) | 93.3 / 90.4 | 0.7
+| PointMLP-elite(Orig)     | 92.9 / 90.2 | 0.7
+| Our (PointMLP-elite(Orig)) | 93.3 / 90.4 | 0.7
+| PointMLP(Orig)     | 92.9 / 90.2 | 0.7
+| Our (PointMLP(Orig)) | 93.3 / 90.4 | 0.7
 
 
 

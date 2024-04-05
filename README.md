@@ -1,49 +1,18 @@
 # BAFM-and-MAL
+Official PyTorch implementation for the following paper:
 
-<p align="center">
-<img src="misc/effects_training_scaling.png" width=85% height=85% class="center">
-</p>
+**Fine-grained Semantic Information Preservation and Misclassification-aware Loss for 3D Point Cloud**
 
-Official PyTorch implementation of PointNeXt, for the following paper:
-
-**PointNeXt: Revisiting PointNet++ with Improved Training and Scaling Strategies**
-
-*by [Guocheng Qian](https://www.gcqian.com/), [Yuchen Li](https://cemse.kaust.edu.sa/vision-cair/people/person/yuchen-li), [Houwen Peng](https://houwenpeng.com/), [Jinjie Mai](https://cemse.kaust.edu.sa/people/person/jinjie-mai), [Hasan Hammoud](https://cemse.kaust.edu.sa/ece/people/person/hasan-abed-al-kader-hammoud), [Mohamed Elhoseiny](http://www.mohamed-elhoseiny.com/), [Bernard Ghanem](https://www.bernardghanem.com/)*
-
-**TL;DR:** We propose improved training and model scaling strategies to boost PointNet++ to state-of-the-art level. PointNet++ with the proposed model scaling is named as PointNeXt, the next version of PointNets. 
-
+*by Yanmei Zou, Xuefei Lin, [Hongshan Yu](http://eeit.hnu.edu.cn/info/1289/4535.htm)*, [Zhengeng Yang](https://gsy.hunnu.edu.cn/info/1071/3537.htm), [Naveed Akhtar](https://findanexpert.unimelb.edu.au/profile/1050019-naveed-akhtar)
 
 ## Features
-In the PointNeXt project, we propose a new and flexible codebase for point-based methods, namely [**OpenPoints**](https://github.com/guochengqian/openpoints). The biggest difference between OpenPoints and other libraries is that we focus more on reproducibility and fair benchmarking. 
+In the project, we propose a new and flexible codebase for point-based methods, namely [**OpenPoints**](https://github.com/guochengqian/openpoints). The biggest difference between OpenPoints and other libraries is that we focus more on reproducibility and fair benchmarking. 
 
-1. **Extensibility**: supports many representative networks for point cloud understanding, such as *PointNet, DGCNN, DeepGCN, PointNet++, ASSANet, PointMLP*, and our ***PointNeXt***. More networks can be built easily based on our framework since OpenPoints support a wide range of basic operations including graph convolutions, self-attention, farthest point sampling, ball query, *e.t.c*.
+1. We propose a plug-and-play bilateral attention fusion module (BAFM) to improve the performance of “Encoder-Decoder” structures by preserving fine-grained semantic information for dense multi-classification tasks.
 
-2. **Reproducibility**: all implemented models are trained on various tasks at least three times. Mean±std is provided in the [PointNeXt paper](https://arxiv.org/abs/2206.04670).  *Pretrained models and logs* are available.
+2. We propose a misclassification-aware loss (MAL) function to fully exploit the predicted information by applying a more informed penalty on the misclassified classes.
 
-3. **Fair Benchmarking**: in PointNeXt, we find a large part of performance gain is due to the training strategies. In OpenPoints, all models are trained with the improved training strategies and all achieve much higher accuracy than the original reported value. 
-
-4. **Ease of Use**: *Build* model, optimizer, scheduler, loss function,  and data loader *easily from cfg*. Train and validate different models on various tasks by simply changing the `cfg\*\*.yaml` file. 
-
-   ```
-   model = build_model_from_cfg(cfg.model)
-   criterion = build_criterion_from_cfg(cfg.criterion)
-   ```
-   Here is an example of `pointnet.yaml` (model configuration for PointNet model):
-   ```python
-   model:
-     NAME: BaseCls
-     encoder_args:
-       NAME: PointNetEncoder
-       in_channels: 4
-     cls_args:
-       NAME: ClsHead
-       num_classes: 15
-       in_channels: 1024
-       mlps: [512,256]
-       norm_args: 
-         norm: 'bn1d'
-   ```
-
+3. We extend MAL as a novel post-processing operation to improve the performance of existing techniques.
 
 
 

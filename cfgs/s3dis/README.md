@@ -66,14 +66,3 @@ note:
 
 
 
-## Reference 
-
-```
-@inproceedings{armeni2016s3dis,
-  title={3d semantic parsing of large-scale indoor spaces},
-  author={Armeni, Iro and Sener, Ozan and Zamir, Amir R and Jiang, Helen and Brilakis, Ioannis and Fischer, Martin and Savarese, Silvio},
-  booktitle=CVPR,
-  pages={1534--1543},
-  year={2016}
-}
-```

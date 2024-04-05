@@ -81,7 +81,7 @@ We provide the **training logs & pretrained models** in column `our released`  *
 
 ### ModelNet40 Classificaiton
 
-|       name           |    mAcc / OA     |                 Param.(M)             
+|       name           |   OA / mAcc     |                 Param.(M)             
 | :-------------------: | :----------------------------: | :----------------------------------------------------------:
 | CurveNet*            | 93.5 / 90.4 |2.0
 | Our (CurveNet)       | 93.8 / 90.8 | 2.0

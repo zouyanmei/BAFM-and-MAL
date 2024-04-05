@@ -19,7 +19,7 @@ In the project, we propose a new and flexible codebase for point-based methods, 
 ## Installation
 
 ```
-git clone git@github.com:guochengqian/PointNeXt.git
+git clone git@github.com:zouyanmei/BAFM-and-MAL.git
 cd BAFM-and-MAL
 source install.sh
 ```
@@ -37,6 +37,7 @@ Note:
 
 For example, 
 * Train and validate on ScanObjectNN for 3D object classification, check [`cfgs/scanobjectnn/README.md`](cfgs/scanobjectnn/README.md)
+* Train and validate on ModelNet40 for 3D object classification, check [`cfgs/modelnet40/README.md`](cfgs/modelnet40/README.md)
 * Train and validate on S3DIS for 3D segmentation, check [`cfgs/s3dis/README.md`](cfgs/s3dis/README.md)
 
 Note:  

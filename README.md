@@ -61,7 +61,7 @@ We provide the **training logs & pretrained models** in column `our released`  *
 | Our (PointMLP(Orig))  |  84.8 / 86.4 | 13.2 | 31.4           
 | PointNeXt-S*  | 85.5 / 87.8  | 1.4 | 1.6     
 | Our (PointNeXt-S*)  | 86.4 / 87.8 | 1.4 | 1.6     
-| PointNeXt-S(Orig) | 86.8 / 88.2 | 1.4 | 1.6  
+| PointNeXt-S(Orig) | [86.8 / 88.2](https://drive.google.com/drive/folders/1A584C9x5uAqppbjNNiVqlA_7uOOOlEII?usp=sharing) | 1.4 | 1.6  
 | **Our(PointNeXt-S(Orig))** | **87.0 / 88.4** | 1.4 | 1.6
 
 

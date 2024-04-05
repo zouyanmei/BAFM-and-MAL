@@ -72,7 +72,7 @@ We provide the **training logs & pretrained models** in column `our released`  *
 |       name             |    mIoU /OA /mAcc (Original)                 
 | :--------------:       | :----------------------------: 
 |    	PointNeXt-XL*      |      70.2 / 76.0 / 90.7           
-|    	Our (PointNeXt-XL) |      71.3 / 77.2 / 90.3   
+|    	Our (PointNeXt-XL) |      [71.3 / 77.2 / 90.3](https://drive.google.com/drive/folders/130hZ4FmVsITNSdRQocYeQtHcdJCAyxFS)   
 
 
 

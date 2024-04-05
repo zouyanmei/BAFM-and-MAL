@@ -51,7 +51,8 @@ We provide the **training logs & pretrained models** in column `our released`  *
 ### ScanObjectNN (Hardest variant) Classification
 
 
-| name |OA/mAcc (our released)|Parameters(M)|GFLOPs
+| name             |OA/mAcc (our released)          |Parameters(M)|GFLOPs                      |
+| :--------------: | :----------------------------: | :----------------------------------------------------------: 
 | Ours(PointNeXt-S(Orig))| [88.20 / 86.84](https://drive.google.com/drive/folders/1A584C9x5uAqppbjNNiVqlA_7uOOOlEII?usp=sharing)|
 | Ours(PointNeXt-S(Orig)) | [88.20 / 86.84](https://drive.google.com/drive/folders/1A584C9x5uAqppbjNNiVqlA_7uOOOlEII?usp=sharing)|
 | **Ours(PointNeXt-S(Orig))** | [88.20 / 86.84](https://drive.google.com/drive/folders/1A584C9x5uAqppbjNNiVqlA_7uOOOlEII?usp=sharing)|

@@ -86,7 +86,7 @@ We provide the **training logs & pretrained models** in column `our released`  *
 | CurveNet*            | 93.5 / 90.4 |2.0
 | Our (CurveNet)       | 93.8 / 90.8 | 2.0
 | CurveNet(Orig)       | [93.8 / 91.1](https://drive.google.com/drive/folders/1fRk631bn8ddfijm0auZN47DwY8ERjfUl) | 2.0
-| Our (CurveNet(Orig)) | 94.0 / 91.4 | 2.0
+| Our (CurveNet(Orig)) | [94.0 / 91.4](https://drive.google.com/drive/folders/1_dVmkNlspc8_XAEq69L5IvfoyF8kU3t7) | 2.0
 | PointMLP-elite*      | 92.9 / 90.2 | 0.7
 | Our (PointMLP-elite) | 93.3 / 90.4 | 0.7
 | PointMLP(Orig)       | [94.1 / 91.3](https://drive.google.com/drive/folders/1zLzdibmWPfy8igjH61gsfHIOqQuDUqpL) | 13.2

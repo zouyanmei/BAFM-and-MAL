@@ -46,21 +46,16 @@ Note:
 
 ## Model Zoo
 
-We provide the **training logs & pretrained models** in column `our released`  *trained with the improved training strategies proposed by our PointNeXt* through Google Drive. 
-
-*TP*: Throughput (instance per second) measured using an NVIDIA Tesla V100 32GB GPU and a 32 core Intel Xeon @ 2.80GHz CPU.
+We provide the **training logs & pretrained models** in column `our released`  *trained with the improved training strategies proposed by our methods through Google Drive. 
 
 ### ScanObjectNN (Hardest variant) Classification
 
-Throughput is measured with 128 x 1024 points. 
 
-| name | OA/mAcc (Original) |OA/mAcc (our released) 
-|:---:|:---:|:---:|:---:| :---:|:---:|
-|  PointNet   | 68.2 / 63.4 | [75.2 / 71.4](https://drive.google.com/drive/folders/1F9sReTX9MC1RAEHZaSh6o_tn9hgQFT95?usp=sharing)
-| DGCNN | 78.1 / 73.6 | [86.1 / 84.3](https://drive.google.com/drive/folders/1KWfvYPrJNdOaMOxTQnwI0eXTspKHCfYQ?usp=sharing) 
-| PointMLP |85.4±1.3 / 83.9±1.5 | [87.7 / 86.4](https://drive.google.com/drive/folders/1Cy4tC5YmlbiDATWEW3qLLNxnBx2-XMqa?usp=sharing)
-| PointNet++ | 77.9 / 75.4 | [86.2 / 84.4](https://drive.google.com/drive/folders/1T7uvQW4cLp65DnaEWH9eREH4XKTKnmks?usp=sharing)
-| **PointNeXt-S** |87.7±0.4 / 85.8±0.6 | [88.20 / 86.84](https://drive.google.com/drive/folders/1A584C9x5uAqppbjNNiVqlA_7uOOOlEII?usp=sharing)|
+| name |OA/mAcc (our released)|Parameters(M)|GFLOPs
+| Ours(PointNeXt-S(Orig))| [88.20 / 86.84](https://drive.google.com/drive/folders/1A584C9x5uAqppbjNNiVqlA_7uOOOlEII?usp=sharing)|
+| Ours(PointNeXt-S(Orig)) | [88.20 / 86.84](https://drive.google.com/drive/folders/1A584C9x5uAqppbjNNiVqlA_7uOOOlEII?usp=sharing)|
+| **Ours(PointNeXt-S(Orig))** | [88.20 / 86.84](https://drive.google.com/drive/folders/1A584C9x5uAqppbjNNiVqlA_7uOOOlEII?usp=sharing)|
+| **Ours(PointNeXt-S(Orig))** | [88.20 / 86.84](https://drive.google.com/drive/folders/1A584C9x5uAqppbjNNiVqlA_7uOOOlEII?usp=sharing)|
 
 
 
